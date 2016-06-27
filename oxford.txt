@@ -8,7 +8,7 @@ African Affairs	0001-9909	1468-2621	1901	1		2015	114		http://afraf.oxfordjournal
 Age and Ageing	0002-0729	1468-2834	1972	1		2015	44		http://ageing.oxfordjournals.org		ageing		fulltext		Oxford University Press	serial								
 The American Historical Review	0002-8762	1937-5239	1895	1		2015	120		http://ahr.oxfordjournals.org		ahr		fulltext		Oxford University Press	serial								
 American Journal of Epidemiology	0002-9262	1476-6256	1952	55		2015	182		http://aje.oxfordjournals.org		aje		fulltext		Oxford University Press	serial								
-American Journal of Hypertension	0895-7061	1941-7225	1895	9		2015	28		http://ajh.oxfordjournals.org		ajh		fulltext		Oxford University Press	serial								
+American Journal of Hypertension	0895-7061	1941-7225	1898	12		2015	28		http://ajh.oxfordjournals.org		ajh		fulltext		Oxford University Press	serial								
 The American Journal of Jurisprudence	0065-8995	2049-6494	1956	1		2015	60		http://ajj.oxfordjournals.org		ajj		fulltext		Oxford University Press	serial								
 Alcohol and Alcoholism	0735-0414	1464-3502	1963	1		2015	50		http://alcalc.oxfordjournals.org		alcalc		fulltext		Oxford University Press	serial								
 American Literary History	0896-7148	1468-4365	1989	1		2015	27		http://alh.oxfordjournals.org		alhist		fulltext		Oxford University Press	serial								
